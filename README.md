@@ -150,12 +150,12 @@ Data Analyst | Aspiring Data Scientist | AI & Cybersecurity Enthusiast
 
 This project is part of my growing portfolio focused on:
 
-Data Analytics
+• Data Analytics
 
-Data Science
+• Data Science
 
-Machine Learning
+• Machine Learning
 
-Artificial Intelligence
+•Artificial Intelligence
 
-Cybersecurity & Threat Analysis
+•Cybersecurity & Threat Analysis
