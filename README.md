@@ -12,45 +12,45 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 🎯 Objectives
 
-Analyze authentication logs for suspicious activity
+• Analyze authentication logs for suspicious activity
 
-Identify users and IP addresses with abnormal failed login behavior
+• Identify users and IP addresses with abnormal failed login behavior
 
-Visualize login trends over time
+• Visualize login trends over time
 
-Apply basic anomaly detection techniques
+• Apply basic anomaly detection techniques
 
-Present findings in a clear, professional, and security-focused manner
+• Present findings in a clear, professional, and security-focused manner
 
 -----------------------------------------------------------------------------------------
 
 🧠 Key Cybersecurity Concepts Demonstrated
 
-Log analysis
+• Log analysis
 
-Brute-force attack detection
+• Brute-force attack detection
 
-Anomaly detection
+• Anomaly detection
 
-Security monitoring fundamentals
+• Security monitoring fundamentals
 
-Threat pattern identification
+• Threat pattern identification
 
-Data-driven security insights
+• Data-driven security insights
 
 ------------------------------------------------------------------------------------------
 
 🛠️ Tools & Technologies
 
-Python
+• Python
 
-Pandas & NumPy – data processing
+• Pandas & NumPy – data processing
 
-Matplotlib & Seaborn – visualization
+• Matplotlib & Seaborn – visualization
 
-Google Colab – interactive analysis environment
+• Google Colab – interactive analysis environment
 
-CSV Authentication Logs – simulated real-world dataset
+• CSV Authentication Logs – simulated real-world dataset
 
 -----------------------------------------------------------------------------------------
 
@@ -60,15 +60,15 @@ The dataset simulates authentication logs commonly found in enterprise systems.
 
 Key Fields:
 
-timestamp – login attempt time
+• timestamp – login attempt time
 
-username – user account attempting access
+•  username – user account attempting access
 
-ip_address – source IP of login attempt
+• ip_address – source IP of login attempt
 
-status – Success or Failed login
+• status – Success or Failed login
 
-location – country of origin
+• location – country of origin
 
 The dataset includes repeated failed login attempts to simulate potential attack behavior.
 
@@ -77,39 +77,39 @@ The dataset includes repeated failed login attempts to simulate potential attack
 📊 Analysis Performed
 ✔ Exploratory Analysis
 
-Dataset structure and quality checks
+• Dataset structure and quality checks
 
-Success vs failed login distribution
+• Success vs failed login distribution
 
 ✔ Security-Focused Insights
 
-Users with the highest number of failed logins
+• Users with the highest number of failed logins
 
-IP addresses associated with repeated failures
+• IP addresses associated with repeated failures
 
-Login activity trends over time
+• Login activity trends over time
 
 ✔ Anomaly Detection
 
-Statistical thresholding to flag users with unusually high failed login attempts
+• Statistical thresholding to flag users with unusually high failed login attempts
 
-Identification of accounts that may require security intervention
+• Identification of accounts that may require security intervention
 
 -----------------------------------------------------------------------------------------
 
 🚨 Key Findings
 
-Most users behave normally with minimal failed login attempts
+• Most users behave normally with minimal failed login attempts
 
-A small number of users and IPs show repeated failed access, which could indicate:
+• A small number of users and IPs show repeated failed access, which could indicate:
 
-Brute-force attempts
+• Brute-force attempts
 
-Credential stuffing
+• Credential stuffing
 
-Unauthorized access attempts
+• Unauthorized access attempts
 
-Login activity varies over time, reinforcing the importance of continuous monitoring
+• Login activity varies over time, reinforcing the importance of continuous monitoring
 
 ----------------------------------------------------------------------------------------
 
@@ -119,11 +119,11 @@ Authentication logs are one of the first places security teams look when investi
 
 This project demonstrates:
 
-Practical cybersecurity thinking
+• Practical cybersecurity thinking
 
-The ability to translate raw logs into actionable insights
+• The ability to translate raw logs into actionable insights
 
-Strong Python and data analysis skills applied to security use cases
+•  Strong Python and data analysis skills applied to security use cases
 
 It also reflects how data analytics and cybersecurity intersect in real-world environments.
 
@@ -133,20 +133,20 @@ It also reflects how data analytics and cybersecurity intersect in real-world en
 
 Machine learning–based intrusion detection
 
-IP reputation scoring
+• IP reputation scoring
 
-Geo-location anomaly analysis
+• Geo-location anomaly analysis
 
-Real-time monitoring dashboards
+• Real-time monitoring dashboards
 
-Integration with SIEM-style pipelines
+• Integration with SIEM-style pipelines
 
 ----------------------------------------------------------------------------------------
 
 👩‍💻 About the Author
 
-Leigh-Anne Ndimande
-Aspiring Data Scientist | AI & Cybersecurity Enthusiast
+Nonkanyiso(Leigh-Anne) Ndimande
+Data Analyst | Aspiring Data Scientist | AI & Cybersecurity Enthusiast
 
 This project is part of my growing portfolio focused on:
 
