@@ -1,5 +1,5 @@
-🔐 Log Analysis & Intrusion Detection
-📌 Project Overview
+# 🔐 Log Analysis & Intrusion Detection
+## 📌 Project Overview
 
 Cyberattacks often start quietly with repeated login failures, suspicious IP addresses or abnormal access patterns hidden inside logs.
 
@@ -10,7 +10,7 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 -----------------------------------------------------------------------------------------
 
-🎯 Objectives
+## 🎯 Objectives
 
 • Analyze authentication logs for suspicious activity
 
@@ -24,7 +24,7 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 -----------------------------------------------------------------------------------------
 
-🧠 Key Cybersecurity Concepts Demonstrated
+## 🧠 Key Cybersecurity Concepts Demonstrated
 
 • Log analysis
 
@@ -40,7 +40,7 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 ------------------------------------------------------------------------------------------
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 • Python
 
@@ -54,7 +54,7 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 -----------------------------------------------------------------------------------------
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset simulates authentication logs commonly found in enterprise systems.
 
@@ -74,7 +74,7 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 -----------------------------------------------------------------------------------------
 
-📊 Analysis Performed
+## 📊 Analysis Performed
 ✔ Exploratory Analysis
 
 • Dataset structure and quality checks
@@ -97,7 +97,7 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 -----------------------------------------------------------------------------------------
 
-🚨 Key Findings
+## 🚨 Key Findings
 
 • Most users behave normally with minimal failed login attempts
 
@@ -113,7 +113,7 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 ----------------------------------------------------------------------------------------
 
-🔍 Why This Project Matters
+## 🔍 Why This Project Matters
 
 Authentication logs are one of the first places security teams look when investigating incidents.
 
@@ -129,7 +129,7 @@ It also reflects how data analytics and cybersecurity intersect in real-world en
 
 ----------------------------------------------------------------------------------------
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Machine learning–based intrusion detection
 
@@ -143,7 +143,7 @@ Machine learning–based intrusion detection
 
 ----------------------------------------------------------------------------------------
 
-👩‍💻 About the Author
+## 👩‍💻 About the Author
 
 Nonkanyiso(Leigh-Anne) Ndimande
 Data Analyst | Aspiring Data Scientist | AI & Cybersecurity Enthusiast
