@@ -111,12 +111,6 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 • Login activity varies over time, reinforcing the importance of continuous monitoring
 
-**Brute Force Red Flags:**
-- User 'admin_user': 287 failed logins in 48 hours (3/4/2024 - 3/5/2024)
-- IP 192.168.1.50: 432 failed attempts from 6 different user accounts
-- Pattern: Logins concentrated 2-6 AM (likely automated attack)
-**Recommendation:** Lock account + alert SOC team immediately
-
 
 -----
 
@@ -136,16 +130,3 @@ It also reflects how data analytics and cybersecurity intersect in real-world en
 
 -----
 
-##  Future Improvements
-
-Machine learning–based intrusion detection
-
-• IP reputation scoring
-
-• Geo-location anomaly analysis
-
-• Real-time monitoring dashboards
-
-• Integration with SIEM-style pipelines
-
------
