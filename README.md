@@ -1,16 +1,16 @@
-# 🔐 Log Analysis & Intrusion Detection
-## 📌 Project Overview
+#  Log Analysis & Intrusion Detection
+##  Project Overview
 
 Cyberattacks often start quietly with repeated login failures, suspicious IP addresses or abnormal access patterns hidden inside logs.
 
-This project focuses on analyzing authentication logs to identify potential security threats, such as brute-force attacks and abnormal login behavior.
+This project focuses on analyzing authentication logs to identify potential security threats such as brute-force attacks and abnormal login behavior.
 It demonstrates how Python and data analysis techniques can be used to support real-world cybersecurity monitoring and incident detection.
 
-This project was built as part of my cybersecurity-focused data science portfolio, showcasing practical analysis skills rather than theory alone.
+This project was built as part of my cybersecurity-focused data analytics portfolio showcasing practical analysis skills rather than theory alone.
 
------------------------------------------------------------------------------------------
+-----
 
-## 🎯 Objectives
+##  Objectives
 
 • Analyze authentication logs for suspicious activity
 
@@ -22,9 +22,9 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 • Present findings in a clear, professional, and security-focused manner
 
------------------------------------------------------------------------------------------
+-----
 
-## 🧠 Key Cybersecurity Concepts Demonstrated
+## Key Cybersecurity Concepts Demonstrated
 
 • Log analysis
 
@@ -38,9 +38,9 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 • Data-driven security insights
 
-------------------------------------------------------------------------------------------
+-----
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 • Python
 
@@ -54,7 +54,7 @@ This project was built as part of my cybersecurity-focused data science portfoli
 
 -----------------------------------------------------------------------------------------
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset simulates authentication logs commonly found in enterprise systems.
 
@@ -72,16 +72,16 @@ Key Fields:
 
 The dataset includes repeated failed login attempts to simulate potential attack behavior.
 
------------------------------------------------------------------------------------------
+-----
 
-## 📊 Analysis Performed
-✔ Exploratory Analysis
+## Analysis Performed
+### Exploratory Analysis
 
 • Dataset structure and quality checks
 
 • Success vs failed login distribution
 
-✔ Security-Focused Insights
+ Security-Focused Insights
 
 • Users with the highest number of failed logins
 
@@ -89,15 +89,15 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 • Login activity trends over time
 
-✔ Anomaly Detection
+### Anomaly Detection
 
 • Statistical thresholding to flag users with unusually high failed login attempts
 
 • Identification of accounts that may require security intervention
 
------------------------------------------------------------------------------------------
+-----
 
-## 🚨 Key Findings
+## Key Findings
 
 • Most users behave normally with minimal failed login attempts
 
@@ -111,9 +111,16 @@ The dataset includes repeated failed login attempts to simulate potential attack
 
 • Login activity varies over time, reinforcing the importance of continuous monitoring
 
-----------------------------------------------------------------------------------------
+**Brute Force Red Flags:**
+- User 'admin_user': 287 failed logins in 48 hours (3/4/2024 - 3/5/2024)
+- IP 192.168.1.50: 432 failed attempts from 6 different user accounts
+- Pattern: Logins concentrated 2-6 AM (likely automated attack)
+**Recommendation:** Lock account + alert SOC team immediately
 
-## 🔍 Why This Project Matters
+
+-----
+
+## Why This Project Matters
 
 Authentication logs are one of the first places security teams look when investigating incidents.
 
@@ -127,9 +134,9 @@ This project demonstrates:
 
 It also reflects how data analytics and cybersecurity intersect in real-world environments.
 
-----------------------------------------------------------------------------------------
+-----
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Machine learning–based intrusion detection
 
@@ -141,21 +148,4 @@ Machine learning–based intrusion detection
 
 • Integration with SIEM-style pipelines
 
-----------------------------------------------------------------------------------------
-
-## 👩‍💻 About the Author
-
-Nonkanyiso(Leigh-Anne) Ndimande
-Data Analyst | Aspiring Data Scientist | AI & Cybersecurity Enthusiast
-
-This project is part of my growing portfolio focused on:
-
-• Data Analytics
-
-• Data Science
-
-• Machine Learning
-
-•Artificial Intelligence
-
-•Cybersecurity & Threat Analysis
+-----
